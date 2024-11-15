@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul-rrp
+- 👋 Hi, I’m Rahul Prajapati
 - 👀 I’m interested in machine learning, open source projects, and web development
 - 🌱 I’m currently learning advanced algorithms and data structures
 - 💞️ I’m looking to collaborate on AI-driven projects and innovative web applications
