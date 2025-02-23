@@ -61,5 +61,5 @@ Explore more on my GitHub: [rahul-rrp](https://github.com/rahul-rrp)
 
 ---
 
-💬 **Let's Connect:** [LinkedIn](#) • [Portfolio](#)  
+💬 **Let's Connect:** [[LinkedIn](https://www.linkedin.com/in/rahul-prajapati-r-p/)](#) • [Portfolio](#)  
 🚀 *Always excited to learn, build, and grow!*  
