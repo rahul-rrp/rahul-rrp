@@ -19,23 +19,6 @@
   ✨ Passionate about clean UI, high performance & building real-world solutions!
 </p>
 
----
-
-## 🎨 Theme Switcher (manual)
-🌞 Try out dark/light themes using GitHub's built-in viewer (top-right toggle on GitHub profile page).  
-💡 Bonus: This README is fully compatible with GitHub's dark/light themes!
-
----
-
-## 📄 Download My Resume
-
-📥 [Click to Download Resume (PDF)](https://github.com/rahul-rrp/rahul-rrp/blob/main/RahulPrajapatiResume.pdf)
-
-> 📨 **Auto Email on Download**:  
-To get notified when someone downloads your resume, you can use a service like [Formspree](https://formspree.io/) or [Zapier Email Hook] and embed a simple form with JS/GitHub Pages. GitHub alone does not support download tracking.
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Web Development (MERN Stack)
