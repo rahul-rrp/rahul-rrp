@@ -1,6 +1,9 @@
+
 <!-- 🧠 Typing Animation Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rahul+👋;Full+Stack+%2B+Mobile+App+Developer;MERN+Stack+%7C+React+Native+%7C+Firebase;AI+%2F+ML+Explorer+%7C+Problem+Solver;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rahul+👋;MERN+Stack+Web+Developer;React+Native+%2B+Firebase+App+Builder;AI+%26+ML+Explorer;Let's+Build+Something+Awesome+🚀)
+
 </div>
 
 <!-- ⚡ Name & Title -->
@@ -10,19 +13,26 @@
 </p>
 
 <p align="center">
-  💻 I use <b>MERN</b> stack for modern web development.<br>
-  📱 I build cross-platform apps using <b>React Native</b> and <b>Firebase</b>.<br>
-  🧠 Currently diving into <b>AI/ML</b> with Python for future-ready skills.<br>
-  ✨ Passionate about clean UI, fast performance, and solving real-world problems!
+  💻 I use the <b>MERN stack</b> for developing modern, responsive web applications. <br>
+  📱 For mobile apps, I specialize in <b>React Native</b> with <b>Firebase</b> for backend services like Auth, Firestore, and Storage. <br>
+  🤖 Currently exploring <b>AI/ML</b> using Python and libraries like NumPy, Pandas, and Scikit-Learn for future innovation. <br>
+  ✨ Passionate about clean UI, high performance & building real-world solutions!
 </p>
 
 ---
 
+## 🎨 Theme Switcher (manual)
+🌞 Try out dark/light themes using GitHub's built-in viewer (top-right toggle on GitHub profile page).  
+💡 Bonus: This README is fully compatible with GitHub's dark/light themes!
+
+---
+
 ## 📄 Download My Resume
+
 📥 [Click to Download Resume (PDF)](https://github.com/rahul-rrp/rahul-rrp/blob/main/RahulPrajapatiResume.pdf)
 
 > 📨 **Auto Email on Download**:  
-Use [Formspree](https://formspree.io/) or [Zapier Webhooks] with a hosted form to get notified when someone downloads your resume.
+To get notified when someone downloads your resume, you can use a service like [Formspree](https://formspree.io/) or [Zapier Email Hook] and embed a simple form with JS/GitHub Pages. GitHub alone does not support download tracking.
 
 ---
 
@@ -31,12 +41,12 @@ Use [Formspree](https://formspree.io/) or [Zapier Webhooks] with a hosted form t
 ### 💻 Web Development (MERN Stack)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
 
 ### 📱 App Development (React Native + Firebase)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?logo=react&logoColor=61DAFB)
@@ -51,6 +61,7 @@ Use [Formspree](https://formspree.io/) or [Zapier Webhooks] with a hosted form t
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=fff)
 
 ### 🧠 Programming
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
@@ -69,20 +80,6 @@ Use [Formspree](https://formspree.io/) or [Zapier Webhooks] with a hosted form t
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-rrp&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rrp&layout=compact&theme=radical" width="47%" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul-rrp&theme=radical&margin-w=10" />
-</p>
-
----
-
-## 📶 Visitor Counter
-
-![Visitors](https://komarev.com/ghpvc/?username=rahul-rrp&color=blue&style=flat)
 
 ---
 
