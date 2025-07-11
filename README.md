@@ -1,7 +1,7 @@
-<!-- 🧠 Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rahul+👋;Full+Stack+%2B+Mobile+App+Developer;MERN+Stack+%7C+React+Native+%7C+Firebase;AI+%26+ML+Enthusiast+%7C+DSA+Lover;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
-</p>
+<!-- 🧠 Typing Animation Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rahul+%F0%9F%91%8B;MERN+Stack+%7C+React+Native+%7C+Firebase;AI+%2F+ML+Enthusiast+%7C+Problem+Solver" alt="Typing animation" />
+</div>
 
 <!-- ⚡ Name & Title -->
 <h1 align="center">Rahul Prajapati</h1>
@@ -17,18 +17,15 @@
 
 ---
 
-## 🎨 Theme Switcher (manual)
-🌞 Try out dark/light themes using GitHub's built-in viewer (top-right toggle on GitHub profile page).  
-💡 Bonus: This README is fully compatible with GitHub's dark/light themes!
+## 🎨 Theme Switcher
+🌞 GitHub supports light/dark mode via the top-right toggle. This README is fully compatible with both modes!
 
 ---
 
 ## 📄 Download My Resume
+📥 [Download Resume (PDF)](https://github.com/rahul-rrp/rahul-rrp/blob/main/RahulPrajapatiResume.pdf)
 
-📥 [Click to Download Resume (PDF)](https://github.com/rahul-rrp/rahul-rrp/blob/main/RahulPrajapatiResume.pdf)
-
-> 📨 **Auto Email on Download**:  
-To get notified when someone downloads your resume, you can use a service like [Formspree](https://formspree.io/) or [Zapier Email Hook] and embed a simple form with JS/GitHub Pages. GitHub alone does not support download tracking.
+> 📨 To get email notifications when someone downloads your resume, use [Formspree](https://formspree.io/) or Zapier Webhooks with a simple hosted form.
 
 ---
 
@@ -69,16 +66,26 @@ To get notified when someone downloads your resume, you can use a service like [
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-rrp&show_icons=true&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-rrp&layout=compact&theme=radical" width="47%" />
-</p>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul-rrp&theme=radical&margin-w=10" />
+</div>
+
+---
+
+## 📶 Visitor Counter
+![Visitors](https://komarev.com/ghpvc/?username=rahul-rrp&color=blue&style=flat)
 
 ---
 
 ## 🔗 Connect with Me
-
 <p align="center">
   <a href="https://linkedin.com/in/rahul-rrp"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   &nbsp;
