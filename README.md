@@ -74,8 +74,8 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/rahul-rrp  
-- 💻 GitHub: https://github.com/rahulrrp  
-- 🧠 LeetCode: https://leetcode.com/rahulrp  
+- 💻 GitHub: https://github.com/rahul-rrp  
+- 🧠 LeetCode: https://leetcode.com/rahulrrp  
 
 ---
 
