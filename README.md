@@ -246,57 +246,74 @@ const rahul: Developer = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="800">
-
-### 🚀 Career Journey
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=🚀+My+Professional+Journey;Building+Scalable+Apps;Full+Stack+Developer+%7C+React+%7C+Node;Always+Learning+New+Tech" />
 
 </div>
 
 ---
 
-### 🟣 **Lead Frontend Developer — Astrosway**
-📅 Feb 2026 – Present  
+### 🟣 **Lead Frontend Developer — Astrosway**  
+<img src="https://img.shields.io/badge/Role-Lead%20Frontend-blueviolet?style=for-the-badge&logo=react" />
+
+📅 **Feb 2026 – Present**  
 🚀 Building scalable mobile apps with modern architecture  
 
-- ⚛️ React Native · Redux · Real-time Chat/Video/Audio  
-- 🔔 Push Notifications · FCM Integration  
-- 🌐 REST APIs · Scalable Architecture  
+<p>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux" />
+<img src="https://img.shields.io/badge/Real--Time-Chat-green?style=flat" />
+<img src="https://img.shields.io/badge/FCM-Notifications-orange?style=flat" />
+</p>
 
 ---
 
-### 🔵 **Software Developer — NextDeal (Exson Proptech)**
-📅 Jan 2026 – Feb 2026  
+### 🔵 **Software Developer — NextDeal (Exson Proptech)**  
+<img src="https://img.shields.io/badge/Role-Software%20Developer-blue?style=for-the-badge" />
 
-- ⚛️ React Native · Node.js  
-- ⚡ Performance Optimization  
-- 🧠 Clean Architecture · Team Collaboration  
+📅 **Jan 2026 – Feb 2026**
 
----
-
-### 🟢 **Full-Stack Developer Intern — Astronetra Jyotish**
-📅 Nov 2025 – Dec 2025  
-
-- ⚡ Next.js (SSR · SSG · ISR)  
-- 🔗 Built 50+ REST APIs  
-- 🚀 CI/CD Pipeline · Admin Dashboard  
-- 📈 SEO · Core Web Vitals · Caching  
+<p>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js" />
+<img src="https://img.shields.io/badge/Performance-Optimization-yellow?style=flat" />
+<img src="https://img.shields.io/badge/Clean-Architecture-purple?style=flat" />
+</p>
 
 ---
 
-### 🟡 **Full-Stack Intern — Icons Workforce**
-📅 May 2025 – Oct 2025  
+### 🟢 **Full-Stack Developer Intern — Astronetra Jyotish**  
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Intern-green?style=for-the-badge" />
 
-- 📱 React Native · Firebase  
-- 🔐 RBAC · OAuth · OneSignal  
-- ⚡ Reduced Firebase reads by **99%** 🔥  
+📅 **Nov 2025 – Dec 2025**
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js" />
+<img src="https://img.shields.io/badge/50+-APIs-success?style=flat" />
+<img src="https://img.shields.io/badge/CI/CD-blue?style=flat" />
+<img src="https://img.shields.io/badge/SEO-Performance-red?style=flat" />
+</p>
 
 ---
+
+### 🟡 **Full-Stack Intern — Icons Workforce**  
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Intern-yellow?style=for-the-badge" />
+
+📅 **May 2025 – Oct 2025**
+
+<p>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase" />
+<img src="https://img.shields.io/badge/OAuth-Security-blue?style=flat" />
+<img src="https://img.shields.io/badge/99%25-Optimization-brightgreen?style=flat" />
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:6a11cb&height=120&section=footer"/>
+
+</div>
 
 
 ---
