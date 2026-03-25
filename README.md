@@ -245,35 +245,59 @@ const rahul: Developer = {
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Experience Timeline
 
 <div align="center">
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    CAREER TIMELINE                               ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🟣 Feb 2026 – Present                                           ║
-║     Astrosway — Lead Frontend Developer                          ║
-║     ▸ React Native · Redux · FCM · Real-Time Chat/Video/Audio    ║
-║     ▸ Push Notifications · REST APIs · Scalable Architecture     ║
-║                          │                                       ║
-║  🔵 Jan 2026 – Feb 2026                                          ║
-║     NextDeal (Exson Proptech) — Software Developer               ║
-║     ▸ React Native · Node.js · Performance Optimization          ║
-║     ▸ Clean Architecture · Cross-functional Collaboration        ║
-║                          │                                       ║
-║  🟢 Nov 2025 – Dec 2025                                          ║
-║     Astronetra Jyotish — Full-Stack Developer Intern             ║
-║     ▸ Next.js SSR/SSG/ISR · 50+ REST APIs · CI/CD Pipeline      ║
-║     ▸ SEO · Core Web Vitals · Admin Dashboard · Caching          ║
-║                          │                                       ║
-║  🟡 May 2025 – Oct 2025                                          ║
-║     Icons Workforce — Full-Stack Intern (Web & Mobile)           ║
-║     ▸ React Native · Firebase · RBAC · OneSignal · OAuth         ║
-║     ▸ 99% Firebase read reduction via query batching 🔥          ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+
+<table>
+<tr>
+<td align="center" width="800">
+
+### 🚀 Career Journey
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+### 🟣 **Lead Frontend Developer — Astrosway**
+📅 Feb 2026 – Present  
+🚀 Building scalable mobile apps with modern architecture  
+
+- ⚛️ React Native · Redux · Real-time Chat/Video/Audio  
+- 🔔 Push Notifications · FCM Integration  
+- 🌐 REST APIs · Scalable Architecture  
+
+---
+
+### 🔵 **Software Developer — NextDeal (Exson Proptech)**
+📅 Jan 2026 – Feb 2026  
+
+- ⚛️ React Native · Node.js  
+- ⚡ Performance Optimization  
+- 🧠 Clean Architecture · Team Collaboration  
+
+---
+
+### 🟢 **Full-Stack Developer Intern — Astronetra Jyotish**
+📅 Nov 2025 – Dec 2025  
+
+- ⚡ Next.js (SSR · SSG · ISR)  
+- 🔗 Built 50+ REST APIs  
+- 🚀 CI/CD Pipeline · Admin Dashboard  
+- 📈 SEO · Core Web Vitals · Caching  
+
+---
+
+### 🟡 **Full-Stack Intern — Icons Workforce**
+📅 May 2025 – Oct 2025  
+
+- 📱 React Native · Firebase  
+- 🔐 RBAC · OAuth · OneSignal  
+- ⚡ Reduced Firebase reads by **99%** 🔥  
+
+---
+
 
 ---
 
