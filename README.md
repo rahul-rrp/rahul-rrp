@@ -327,18 +327,18 @@ const rahul: Developer = {
 
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=🏆+Achievements+Unlocked;Consistent+Contributor;Building+Projects+🚀&v=2" />
+<!-- Typing Animation (SAFE VERSION - no emoji) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Achievements+Unlocked;Consistent+Contributor;Building+Projects&v=3" />
 
 <br/><br/>
 
 <!-- Trophy Card -->
-<img src="https://github-profile-trophy.vercel.app/?username=rahul-rrp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4&v=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=rahul-rrp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4&v=3" />
 
 <br/><br/>
 
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
+<!-- Simple Divider (NO API - ALWAYS WORKS) -->
+<hr style="width:60%; border:1px solid #444;" />
 
 </div>
 <!-- ═══════════════════════════════════════════════════════════════ -->
