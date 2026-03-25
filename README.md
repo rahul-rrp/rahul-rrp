@@ -215,11 +215,11 @@ const rahul: Developer = {
 <div align="center">
 
 <a href="https://nuvexic.pages.dev/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=nuvexic&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=7c3aed&text_color=c9d1d9&v=2" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=nuvexic&theme=tokyonight&hide_border=true&v=3" />
 </a>
 
 <a href="https://skilllink-eight.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=SkillSwap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=10b981&text_color=c9d1d9&v=2" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=skillswap&theme=tokyonight&hide_border=true&v=3" />
 </a>
 
 </div>
@@ -331,14 +331,6 @@ const rahul: Developer = {
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Achievements+Unlocked;Consistent+Contributor;Building+Projects&v=3" />
 
 <br/><br/>
-
-<!-- Trophy Card -->
-<img src="https://github-profile-trophy.vercel.app/?username=rahul-rrp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4&v=3" />
-
-<br/><br/>
-
-<!-- Simple Divider (NO API - ALWAYS WORKS) -->
-<hr style="width:60%; border:1px solid #444;" />
 
 </div>
 <!-- ═══════════════════════════════════════════════════════════════ -->
