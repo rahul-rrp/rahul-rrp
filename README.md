@@ -215,11 +215,11 @@ const rahul: Developer = {
 <div align="center">
 
 <a href="https://nuvexic.pages.dev/">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=nuvexic&theme=tokyonight&hide_border=true&v=3" />
+  <img width="400" src="https://gh-card.dev/repos/rahul-rrp/nuvexic.svg" />
 </a>
 
 <a href="https://skilllink-eight.vercel.app/">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=skillswap&theme=tokyonight&hide_border=true&v=3" />
+  <img width="400" src="https://gh-card.dev/repos/rahul-rrp/skillswap.svg" />
 </a>
 
 </div>
