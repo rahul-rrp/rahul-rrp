@@ -3,21 +3,9 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:1e3c72&height=250&section=header&text=Rahul%20Prajapati&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-</div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    MATRIX STYLE ASCII                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Rahul%20Prajapati&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20⚡&descAlignY=75&descSize=20" />
 
-<div align="center">
-<pre>
-⣿⣿⣿⣿⣿⣿   ⣿⣿⣿⣿⣿⣿   ⣿⣿⣿⣿⣿⣿   ⣿⣿
-⣿      ⣿   ⣿      ⣿   ⣿            ⣿
-⣿⣿⣿⣿⣿⣿   ⣿⣿⣿⣿⣿⣿   ⣿⣿⣿⣿⣿      ⣿⣿
-⣿      ⣿   ⣿            ⣿            
-⣿⣿⣿⣿⣿⣿   ⣿            ⣿⣿⣿⣿⣿⣿   ⣿⣿
-</pre>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
