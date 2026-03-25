@@ -3,9 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=300&section=header&text=Rahul%20Prajapati&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55&rotate=-2&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile%20%7C%20SEO%20Engineer&descAlignY=72&descSize=18&stroke=4f8ef7&strokeWidth=2" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:1e3c72&height=250&section=header&text=Rahul%20Prajapati&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
