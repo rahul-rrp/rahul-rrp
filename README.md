@@ -215,10 +215,11 @@ const rahul: Developer = {
 <div align="center">
 
 <a href="https://nuvexic.pages.dev/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=nuvexic&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=7c3aed&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=nuvexic&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f8ef7&icon_color=7c3aed&text_color=c9d1d9&v=2" />
 </a>
+
 <a href="https://skilllink-eight.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=SkillSwap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=10b981&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahul-rrp&repo=SkillSwap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=10b981&text_color=c9d1d9&v=2" />
 </a>
 
 </div>
@@ -326,10 +327,20 @@ const rahul: Developer = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rahul-rrp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=🏆+Achievements+Unlocked;Consistent+Contributor;Building+Projects+🚀&v=2" />
+
+<br/><br/>
+
+<!-- Trophy Card -->
+<img src="https://github-profile-trophy.vercel.app/?username=rahul-rrp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4&v=2" />
+
+<br/><br/>
+
+<!-- Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer"/>
 
 </div>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ACHIEVEMENT COUNTERS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -356,9 +367,9 @@ const rahul: Developer = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rahul-rrp/rahul-rrp/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rahul-rrp/rahul-rrp/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/rahul-rrp/rahul-rrp/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahul-rrp/rahul-rrp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahul-rrp/rahul-rrp/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahul-rrp/rahul-rrp/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
