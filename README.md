@@ -269,6 +269,4 @@ passions:
 
 <div align="center">
   <i>⭐ Always building, always learning — let's create something impactful.</i>
-</div> 
-
-
+</div>
