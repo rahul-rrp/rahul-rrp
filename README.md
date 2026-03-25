@@ -246,7 +246,7 @@ const rahul: Developer = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=🚀+My+Professional+Journey;Building+Scalable+Apps;Full+Stack+Developer+%7C+React+%7C+Node;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=My+Professional+Journey;Building+Scalable+Apps;Full+Stack+Developer+%7C+React+%7C+Node;Always+Learning+New+Tech&v=2" />
 
 </div>
 
