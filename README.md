@@ -204,22 +204,38 @@ const rahul: Developer = {
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Featured Projects
+## ⚡ API Ecosystem
 
 <div align="center">
 
-<a href="https://nuvexic.pages.dev/">
-  <img width="400" src="https://gh-card.dev/repos/rahul-rrp/nuvexic.svg" />
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge)
+![Clerk](https://img.shields.io/badge/Clerk-000?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-000?style=for-the-badge)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED PROJECTS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"/>
+  Featured Projects
+</h2>
+
+<div align="center">
+
+<a href="https://autonomix-tan.vercel.app/">
+  <img width="420" src="https://gh-card.dev/repos/rahul-rrp/AutonomiX.svg" />
 </a>
 
-<a href="https://skilllink-eight.vercel.app/">
-  <img width="400" src="https://gh-card.dev/repos/rahul-rrp/skillswap.svg" />
+<a href="https://blood-link-8jfthmzqo-rahul-rrps-projects.vercel.app/">
+  <img width="420" src="https://gh-card.dev/repos/rahul-rrp/bloodlink.svg" />
 </a>
 
 </div>
@@ -228,16 +244,141 @@ const rahul: Developer = {
 
 <div align="center">
 
-| 🏷️ | Project | Description | Stack | Links |
-|:---:|:--------|:------------|:------|:-----:|
-| 📰 | **Nuvexic** | Production news platform — role-based CMS, PWA, SEO, Cloudflare CDN, 95+ Lighthouse | React, TS, Firebase, Appwrite, PWA | [🌐](https://nuvexic.pages.dev/) [💻](https://github.com/rahul-rrp) |
-| 🩸 | **BloodLink** | AI-powered blood donation system — real-time donor matching, RBAC, JWT auth | Next.js, Node.js, MongoDB, AI/NLP | [💻](https://github.com/rahul-rrp) |
-| 🔄 | **SkillSwap** | Hyperlocal skill exchange — 3D Three.js UI, real-time chat, Supabase backend | Next.js 14, Three.js, Framer Motion, Supabase | [🌐](https://skilllink-eight.vercel.app/) [💻](https://github.com/rahul-rrp) |
-| 🧠 | **Dijkstra's Visualizer** | Interactive shortest-path algorithm visualizer with step-by-step DSA walkthrough | C++, Algorithms, DSA | [💻](https://github.com/rahul-rrp) |
+<a href="https://nuvexic.pages.dev/">
+  <img width="420" src="https://gh-card.dev/repos/rahul-rrp/nuvexic.svg" />
+</a>
+
+<a href="https://skilllink-eight.vercel.app/">
+  <img width="420" src="https://gh-card.dev/repos/rahul-rrp/skillswap.svg" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Links</th>
+</tr>
+
+<tr>
+<td><b>Autonomix</b></td>
+<td>Autonomous AI agent platform with memory, RAG, and tool-based execution.</td>
+<td>Next.js, Node.js, Prisma, LangChain, Gemini</td>
+<td>
+<a href="https://autonomix-tan.vercel.app/">Live</a> |
+<a href="https://github.com/rahul-rrp/AutonomiX">Code</a>
+</td>
+</tr>
+
+<tr>
+<td><b>BloodLink</b></td>
+<td>AI-powered blood donation system with real-time donor matching and secure auth.</td>
+<td>Next.js, Node.js, MongoDB, AI/NLP</td>
+<td>
+<a href="https://blood-link-8jfthmzqo-rahul-rrps-projects.vercel.app/">Live</a> |
+<a href="https://github.com/rahul-rrp">Code</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Nuvexic</b></td>
+<td>Production news platform with CMS, PWA, SEO, and high Lighthouse performance.</td>
+<td>React, TypeScript, Firebase, Appwrite</td>
+<td>
+<a href="https://nuvexic.pages.dev/">Live</a> |
+<a href="https://github.com/rahul-rrp">Code</a>
+</td>
+</tr>
+
+<tr>
+<td><b>SkillSwap</b></td>
+<td>3D-powered skill exchange platform with real-time chat.</td>
+<td>Next.js, Three.js, Supabase</td>
+<td>
+<a href="https://skilllink-eight.vercel.app/">Live</a> |
+<a href="https://github.com/rahul-rrp">Code</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Dijkstra Visualizer</b></td>
+<td>Interactive shortest-path algorithm visualizer.</td>
+<td>C++, DSA</td>
+<td>
+<a href="https://github.com/rahul-rrp">Code</a>
+</td>
+</tr>
+
+</table>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        AUTONOMIX DETAILS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="35"/>
+  Autonomix – Autonomous AI Agent Platform
+</h2>
+
+<p align="center"><b>Jan 2026 – Present</b></p>
+
+<p align="center">
+Full-stack platform for building and managing autonomous AI agents with memory, tools, and real-world workflows.
+</p>
+
+---
+
+### Key Features
+
+- Agent Builder Interface  
+- Gemini + LangChain integration  
+- Vector memory (Chroma DB)  
+- Autonomous web research (Tavily)  
+- Cloudinary media handling  
+- Google OAuth authentication  
+- PDF generation (PDFKit)  
+
+---
+
+### Tech Stack
+
+Frontend: Next.js, React, Tailwind, Zustand, React Query  
+Backend: Node.js, Express, Prisma (PostgreSQL)  
+AI/ML: LangChain, Google Gemini  
+Database: PostgreSQL + Chroma DB  
+
+---
+
+### Highlights
+
+- Built scalable AI agent system with memory + tools  
+- Implemented RAG-based responses  
+- Integrated multiple APIs for automation  
+- Designed modern UI/UX  
+
+---
+
+### Links
+
+- GitHub: https://github.com/rahul-rrp/AutonomiX  
+- Live: https://autonomix-tan.vercel.app/
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200"/>
+</p>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    EXPERIENCE TIMELINE                          -->
